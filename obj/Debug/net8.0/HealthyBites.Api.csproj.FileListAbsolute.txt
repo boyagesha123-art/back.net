@@ -1,0 +1,8 @@
+D:\project\HealthyBites.Api\obj\Debug\net8.0\HealthyBites.Api.csproj.AssemblyReference.cache
+D:\project\HealthyBites.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\project\HealthyBites.Api\obj\Debug\net8.0\HealthyBites.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\HealthyBites.Api\obj\Debug\net8.0\HealthyBites.Api.AssemblyInfoInputs.cache
+D:\project\HealthyBites.Api\obj\Debug\net8.0\HealthyBites.Api.AssemblyInfo.cs
+D:\project\HealthyBites.Api\obj\Debug\net8.0\HealthyBites.Api.csproj.CoreCompileInputs.cache
+D:\project\HealthyBites.Api\obj\Debug\net8.0\HealthyBites.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\project\HealthyBites.Api\obj\Debug\net8.0\HealthyBites.Api.MvcApplicationPartsAssemblyInfo.cache
